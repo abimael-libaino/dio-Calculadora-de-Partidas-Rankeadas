@@ -31,7 +31,7 @@ Pode usar o codigo em computador com node.js instalado.
 Verifique se seu computador tem o modulo ```prompt-sync ``` instalado junto com o node.js. 
 Clone o repositorio em uma pasta usando o comando:
 ~~~
-git clone https://github.com/abimael-libaino/
+git clone https://github.com/abimael-libaino/dio-Calculadora-de-Partidas-Rankeadas/
 ~~~
 Se não estiver instalado, use no terminal o seguinte comamando na pasta gerada:
 ~~~
