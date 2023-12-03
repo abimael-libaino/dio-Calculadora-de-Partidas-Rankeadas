@@ -39,5 +39,5 @@ npm install prompt-sync
 ~~~
 e em seguida use o seguinte comando para rodar o codigo:
 ~~~
-node .\desafio2.js
+node .\index.js
 ~~~
